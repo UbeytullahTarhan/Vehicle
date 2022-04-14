@@ -1,0 +1,15 @@
+C:\Users\Qebqıbo\source\repos\CaseVehicle\CaseVehicle.Interface\bin\Debug\net5.0\CaseVehicle.Interface.deps.json
+C:\Users\Qebqıbo\source\repos\CaseVehicle\CaseVehicle.Interface\bin\Debug\net5.0\CaseVehicle.Interface.dll
+C:\Users\Qebqıbo\source\repos\CaseVehicle\CaseVehicle.Interface\bin\Debug\net5.0\ref\CaseVehicle.Interface.dll
+C:\Users\Qebqıbo\source\repos\CaseVehicle\CaseVehicle.Interface\bin\Debug\net5.0\CaseVehicle.Interface.pdb
+C:\Users\Qebqıbo\source\repos\CaseVehicle\CaseVehicle.Interface\obj\Debug\net5.0\CaseVehicle.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qebqıbo\source\repos\CaseVehicle\CaseVehicle.Interface\obj\Debug\net5.0\CaseVehicle.Interface.AssemblyInfoInputs.cache
+C:\Users\Qebqıbo\source\repos\CaseVehicle\CaseVehicle.Interface\obj\Debug\net5.0\CaseVehicle.Interface.AssemblyInfo.cs
+C:\Users\Qebqıbo\source\repos\CaseVehicle\CaseVehicle.Interface\obj\Debug\net5.0\CaseVehicle.Interface.csproj.CoreCompileInputs.cache
+C:\Users\Qebqıbo\source\repos\CaseVehicle\CaseVehicle.Interface\obj\Debug\net5.0\CaseVehicle.Interface.dll
+C:\Users\Qebqıbo\source\repos\CaseVehicle\CaseVehicle.Interface\obj\Debug\net5.0\ref\CaseVehicle.Interface.dll
+C:\Users\Qebqıbo\source\repos\CaseVehicle\CaseVehicle.Interface\obj\Debug\net5.0\CaseVehicle.Interface.pdb
+C:\Users\Qebqıbo\source\repos\CaseVehicle\CaseVehicle.Interface\obj\Debug\net5.0\CaseVehicle.Interface.csproj.AssemblyReference.cache
+C:\Users\Qebqıbo\source\repos\CaseVehicle\CaseVehicle.Interface\bin\Debug\net5.0\CaseVehicle.Entity.dll
+C:\Users\Qebqıbo\source\repos\CaseVehicle\CaseVehicle.Interface\bin\Debug\net5.0\CaseVehicle.Entity.pdb
+C:\Users\Qebqıbo\source\repos\CaseVehicle\CaseVehicle.Interface\obj\Debug\net5.0\CaseVehicle.Interface.csproj.CopyComplete

@@ -1,0 +1,15 @@
+C:\Users\Qebqıbo\source\repos\CaseVehicle\CaseVehicle.Dal\bin\Debug\net5.0\CaseVehicle.Dal.deps.json
+C:\Users\Qebqıbo\source\repos\CaseVehicle\CaseVehicle.Dal\bin\Debug\net5.0\CaseVehicle.Dal.dll
+C:\Users\Qebqıbo\source\repos\CaseVehicle\CaseVehicle.Dal\bin\Debug\net5.0\ref\CaseVehicle.Dal.dll
+C:\Users\Qebqıbo\source\repos\CaseVehicle\CaseVehicle.Dal\bin\Debug\net5.0\CaseVehicle.Dal.pdb
+C:\Users\Qebqıbo\source\repos\CaseVehicle\CaseVehicle.Dal\obj\Debug\net5.0\CaseVehicle.Dal.csproj.AssemblyReference.cache
+C:\Users\Qebqıbo\source\repos\CaseVehicle\CaseVehicle.Dal\obj\Debug\net5.0\CaseVehicle.Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qebqıbo\source\repos\CaseVehicle\CaseVehicle.Dal\obj\Debug\net5.0\CaseVehicle.Dal.AssemblyInfoInputs.cache
+C:\Users\Qebqıbo\source\repos\CaseVehicle\CaseVehicle.Dal\obj\Debug\net5.0\CaseVehicle.Dal.AssemblyInfo.cs
+C:\Users\Qebqıbo\source\repos\CaseVehicle\CaseVehicle.Dal\obj\Debug\net5.0\CaseVehicle.Dal.csproj.CoreCompileInputs.cache
+C:\Users\Qebqıbo\source\repos\CaseVehicle\CaseVehicle.Dal\obj\Debug\net5.0\CaseVehicle.Dal.dll
+C:\Users\Qebqıbo\source\repos\CaseVehicle\CaseVehicle.Dal\obj\Debug\net5.0\ref\CaseVehicle.Dal.dll
+C:\Users\Qebqıbo\source\repos\CaseVehicle\CaseVehicle.Dal\obj\Debug\net5.0\CaseVehicle.Dal.pdb
+C:\Users\Qebqıbo\source\repos\CaseVehicle\CaseVehicle.Dal\bin\Debug\net5.0\CaseVehicle.Entity.dll
+C:\Users\Qebqıbo\source\repos\CaseVehicle\CaseVehicle.Dal\bin\Debug\net5.0\CaseVehicle.Entity.pdb
+C:\Users\Qebqıbo\source\repos\CaseVehicle\CaseVehicle.Dal\obj\Debug\net5.0\CaseVehicle.Dal.csproj.CopyComplete

@@ -1,0 +1,15 @@
+C:\Users\Qebqıbo\source\repos\CaseVehicle\CaseVehicle.Entity\bin\Debug\net5.0\CaseVehicle.Entity.deps.json
+C:\Users\Qebqıbo\source\repos\CaseVehicle\CaseVehicle.Entity\bin\Debug\net5.0\CaseVehicle.Entity.runtimeconfig.json
+C:\Users\Qebqıbo\source\repos\CaseVehicle\CaseVehicle.Entity\bin\Debug\net5.0\CaseVehicle.Entity.runtimeconfig.dev.json
+C:\Users\Qebqıbo\source\repos\CaseVehicle\CaseVehicle.Entity\bin\Debug\net5.0\CaseVehicle.Entity.dll
+C:\Users\Qebqıbo\source\repos\CaseVehicle\CaseVehicle.Entity\bin\Debug\net5.0\ref\CaseVehicle.Entity.dll
+C:\Users\Qebqıbo\source\repos\CaseVehicle\CaseVehicle.Entity\bin\Debug\net5.0\CaseVehicle.Entity.pdb
+C:\Users\Qebqıbo\source\repos\CaseVehicle\CaseVehicle.Entity\obj\Debug\net5.0\CaseVehicle.Entity.csproj.AssemblyReference.cache
+C:\Users\Qebqıbo\source\repos\CaseVehicle\CaseVehicle.Entity\obj\Debug\net5.0\CaseVehicle.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qebqıbo\source\repos\CaseVehicle\CaseVehicle.Entity\obj\Debug\net5.0\CaseVehicle.Entity.AssemblyInfoInputs.cache
+C:\Users\Qebqıbo\source\repos\CaseVehicle\CaseVehicle.Entity\obj\Debug\net5.0\CaseVehicle.Entity.AssemblyInfo.cs
+C:\Users\Qebqıbo\source\repos\CaseVehicle\CaseVehicle.Entity\obj\Debug\net5.0\CaseVehicle.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Qebqıbo\source\repos\CaseVehicle\CaseVehicle.Entity\obj\Debug\net5.0\CaseVehicle.Entity.dll
+C:\Users\Qebqıbo\source\repos\CaseVehicle\CaseVehicle.Entity\obj\Debug\net5.0\ref\CaseVehicle.Entity.dll
+C:\Users\Qebqıbo\source\repos\CaseVehicle\CaseVehicle.Entity\obj\Debug\net5.0\CaseVehicle.Entity.pdb
+C:\Users\Qebqıbo\source\repos\CaseVehicle\CaseVehicle.Entity\obj\Debug\net5.0\CaseVehicle.Entity.genruntimeconfig.cache
